@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+    padding: 20px;
+    
+}
+h1{
+    text-align: center;
+    color:red;
+    font-size:200%;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+
+p{
+    text-align: center;
+}
+
+.button{
+    background-color:pink;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 50%;
+    margin: 0 50% 0 50%;
+}
+
+
+
